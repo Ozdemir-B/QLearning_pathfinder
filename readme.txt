@@ -2,5 +2,7 @@
 python 3.8.6
 pygame
 numpy yüklü olmalı.
-ilk önce başlangıç sonra bitiş noıktası tablodan toklanarak seçilir ve başlatılır.
-butıonlar sırayla: başla, durdur, grafiği göster, en kısa yolu göster
+
+İlk önce başlangıç sonra bitiş noktası sırayla haritada tıklanarak seçilir.
+
+Butıonlar sırayla: başlat, durdur, başarım grafiğini göster, en kısa yolu göster
